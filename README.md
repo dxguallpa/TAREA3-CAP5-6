@@ -9,6 +9,50 @@ NRC: 10063
 Docente: Darwin Omar Alulema Flores
 
 
+1.	OBJETIVO GENERAL
+
+Aprender sobre el funcionamiento de los circuitos en serie y en paralelo y el funcionamiento de estos circuitos mediante la explicación de conceptos y la resolución de ejercicios. Posteriormente, aplicar estos conocimientos en el el armado de circuitos de forma física.
+
+
+2.	OBJETIVOS ESPECÍFICOS
+
+
+• Identificar un circuito resistivo en serie y en paralelo
+
+• Analizar voltaje, corriente, resistencia y potencia dentro de los circuitos en serie y paralelo.
+
+•	Examinar los efectos de las aberturas y de los cortos en circuitos en serie y paralelo.
+
+• Aplicar las leyes de Kirchhoff y las leyes de ohm en los circuitos estudiados.
+
+
+
+3.	MARCO TEÓRICO
+
+
+![1](https://user-images.githubusercontent.com/117873786/203404966-7ace7015-d93f-49b0-b749-1cb23776fc72.png)
+![2](https://user-images.githubusercontent.com/117873786/203404969-949dced7-fdb9-4b42-ab0e-062d27fee8ad.png)
+![3](https://user-images.githubusercontent.com/117873786/203404970-3774d17a-3746-4b6e-babe-b208a5abbac2.png)
+![4](https://user-images.githubusercontent.com/117873786/203404972-69a96d07-76e0-4ed3-9c7c-84b83c0bf40c.png)
+![5](https://user-images.githubusercontent.com/117873786/203404973-3f5b65eb-df57-4ff6-a68d-90863bfa85ac.png)
+![6](https://user-images.githubusercontent.com/117873786/203404974-42940151-0399-4151-b1fc-b26706cc0cb0.png)
+![7](https://user-images.githubusercontent.com/117873786/203404976-8df2bb35-e51c-4d66-a2c4-8efb79a663f2.png)
+
+
+
+4.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+
+
+ EJERCICIOS 
+
+
+
+CAPÍTULO 6 / CIRCUTOS EN SERIE 
+
+
+SECCIÓN 5–1 Resistores en serie
+
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
 
@@ -26,6 +70,10 @@ Docente: Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/117873786/202913291-df406ab0-c710-41eb-aeee-d73b7e5026b7.png)
 
 
+SECCIÓN 5–2 Corriente en un circuito en serie
+
+
+
 6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
 
 ![173214755-b1e24fa1-a039-4906-9b77-f0082ffbd6b1](https://user-images.githubusercontent.com/117873786/202910984-884cc745-d833-47f4-9cea-03a9485a7ff3.png)
@@ -38,6 +86,10 @@ Docente: Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/117873786/202912122-c895f3db-a119-4eb4-af26-547018abfaf1.png)
 
 - Se sigue el mismo proceso para las resistencias R2, R3, R4 y R9
+
+
+SECCIÓN 5–3 Resistencia total en serie
+
 
 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
 
@@ -59,6 +111,10 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/202914467-cc0d9a44-f96f-4fb8-8a22-1e855bca6380.png)
 
+
+SECCIÓN 5–4 Aplicación de la ley de Ohm
+
+
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
 ![image](https://user-images.githubusercontent.com/117873786/202915046-00c1dd9c-9e17-4307-a71e-6b008c5e2bfe.png)
@@ -75,9 +131,20 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/202918204-bd6a46d4-d7e7-4b6a-967d-be20fcfa8218.png)
 
+
+
+SECCIÓN 5–5 Fuentes de voltaje en serie
+
+
+
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
 ![image](https://user-images.githubusercontent.com/117873786/202918479-5de8f7bc-e6d2-4009-ac3f-d5a1bd80d485.png)
+
+
+
+SECCIÓN 5–6 Ley del voltaje de Kirchhoff
+
 
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
@@ -96,6 +163,10 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/202919649-b73a15bb-0136-47eb-8d83-585c7b1b30fc.png)
 
+
+SECCIÓN 5–7 Divisores de voltaje
+
+
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
 
 ![173214987-a0ebfae5-3dcb-4764-9fb7-3d14ad8cef78](https://user-images.githubusercontent.com/117873786/202919670-97b2b0b8-21a7-4c6e-892e-9209d0b482c8.png)
@@ -112,6 +183,12 @@ Docente: Darwin Omar Alulema Flores
 
 ![173215009-3a126f2b-f18f-4804-861f-8e31d0f3e6b4](https://user-images.githubusercontent.com/117873786/202920510-f3d89c86-b632-4082-be7d-12be6c341902.png)
 
+
+
+SECCIÓN 5–8 Potencia en circuitos en serie
+
+
+
 46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
 
 ![image](https://user-images.githubusercontent.com/117873786/203151159-b5ba767d-06dd-4cc7-b1d3-6b679a2a0cf9.png)
@@ -126,11 +203,21 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/203158822-383216ba-e522-4b8d-8eb2-cf832aaf3220.png)
 
+
+SECCIÓN 5–9 Mediciones de voltaje
+
+
 52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
 - Se coloca a un lado de R2 y el otro punto se pone a tierra, luego se resta el voltaje B y A.
 
 ![170887813-b9fb6300-23c7-4417-badc-6fd64d211df2](https://user-images.githubusercontent.com/117873786/203158999-fd03740b-f118-4a51-ba0a-34caa6db3029.png)
+
+
+
+SECCIÓN 5–10 Localización de fallas
+
+
 
 54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
@@ -163,9 +250,10 @@ Docente: Darwin Omar Alulema Flores
 
 
 
+CAPITULO 6 / CIRCUITOS EN PARALELO
 
 
-
+SECCIÓN 6–1 Resistores en paralelo
 
 
 2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
@@ -175,6 +263,10 @@ Docente: Darwin Omar Alulema Flores
 - Las resistencias R1, R2 Y R3 no son paralelos con los resistores.
 - Las resistencias R4, R6, R7 Y R8 estan en paralelo.
 - Las resistencias R3 y R11 estan en paralelo.
+
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
 
 4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.
 
@@ -188,6 +280,10 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/203167073-0b47ae40-3a62-4613-b663-a393a210c117.png)
 
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
+
+
 10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
 
 ![image](https://user-images.githubusercontent.com/117873786/203167556-3bec23d4-771d-4ae1-b372-aab913fe12a1.png)
@@ -195,6 +291,10 @@ Docente: Darwin Omar Alulema Flores
 12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
 
 ![image](https://user-images.githubusercontent.com/117873786/203167893-f7adff05-a45a-4e13-8b05-8244668817b3.png)
+
+
+SECCIÓN 6–4 Resistencia total en paralelo
+
 
 14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
 
@@ -216,6 +316,11 @@ Docente: Darwin Omar Alulema Flores
 ![image](https://user-images.githubusercontent.com/117873786/203172732-e3dbd492-9b3e-4b15-9e70-58098dd0942b.png)
 
 
+
+SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+
+
 22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
 
 ![image](https://user-images.githubusercontent.com/117873786/203174202-23d6e7eb-67c9-4fdb-978c-77c04939c18f.png)
@@ -234,9 +339,19 @@ Docente: Darwin Omar Alulema Flores
 
 ![173215252-3429e214-9647-43bc-97f0-fdfcc6c6629b](https://user-images.githubusercontent.com/117873786/203175553-e37b6ee4-dff0-46d2-a847-6040198678ec.png)
 
+
+
+SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+
+
 30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
 
 ![image](https://user-images.githubusercontent.com/117873786/203178229-1cab69f1-c3d3-48f3-b40e-79bf7fcb40a6.png)
+
+
+SECCIÓN 6–7 Divisores de corriente
+
 
 32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
 
@@ -250,6 +365,11 @@ Docente: Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/117873786/203179990-46d62edb-4559-4591-be8c-41dcbf16fd30.png)
 
+
+
+SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+
 38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
 
 ![image](https://user-images.githubusercontent.com/117873786/203180520-f67baa9c-2814-4203-863a-2cecd943f6fc.png)
@@ -261,6 +381,10 @@ Docente: Darwin Omar Alulema Flores
 42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
 
 ![image](https://user-images.githubusercontent.com/117873786/203181439-dc3f7c68-7414-4218-92f6-5ae2bf5c848f.png)
+
+
+SECCIÓN 6–10 Localización de fallas
+
 
 44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
@@ -278,9 +402,34 @@ Docente: Darwin Omar Alulema Flores
 
 ![170889452-c2035017-ef94-47fd-b80d-30bd0c80e217](https://user-images.githubusercontent.com/117873786/203188328-227b6d17-3e21-40a9-b9af-9508518d3344.png)
 
+(a) 1 y 2 
+    No tiene conexión
+(b) 2 y 3 
+    Las resistencias que forman parte de las puntas son: R5, R6, R7, R8, R9, R10
+(c) 3 y 4 
+    No tiene conexión
+(d) 1 y 4
+    R2
+    
 
+4. VIDEO
+    
+    
+    
+5. CONCLUSIONES 
+    
+• Cuando se conectan resistores en serie y se aplica voltaje entre los extremos de la conexión en serie, existe sólo una trayectoria para la corriente; y, por consiguiente, cada resistor en serie tiene la misma cantidad de corriente a través de él. 
 
+• Cuando se conectan resistores en paralelo y se aplica voltaje a través del circuito en paralelo, cada resistor constituye una trayectoria distinta para la corriente.
 
+• Las caídas de voltaje entre cada uno de los resistores se suman al voltaje aplicado entre los extremos de toda la conexión en serie. 
+
+• La corriente que fluye a través del circuito es la misma en todo el circuito y en cada dispositivo, y si las resistencias de estos dispositivos son diferentes, el voltaje en cada dispositivo también será diferente.  
+
+6. BIBLIOGRAFÍA
+
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
+http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
 
 
 

@@ -398,24 +398,15 @@ SECCIÓN 6–10 Localización de fallas
  
  - podemos concluir que la resistencia 1 es la que se encuentra abierta 
 
-48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: (a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4
 
-![170889452-c2035017-ef94-47fd-b80d-30bd0c80e217](https://user-images.githubusercontent.com/117873786/203188328-227b6d17-3e21-40a9-b9af-9508518d3344.png)
-
-(a) 1 y 2 
-    No tiene conexión
-(b) 2 y 3 
-    Las resistencias que forman parte de las puntas son: R5, R6, R7, R8, R9, R10
-(c) 3 y 4 
-    No tiene conexión
-(d) 1 y 4
-    R2
     
 
 4. VIDEO
     
     
-    
+  https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/EVrr9iSpESBKj31MKnO1Zt4BQtFrITobPUcflNbN0YpPPQ?e=JdYH8M
+  
+  
 5. CONCLUSIONES 
     
 • Cuando se conectan resistores en serie y se aplica voltaje entre los extremos de la conexión en serie, existe sólo una trayectoria para la corriente; y, por consiguiente, cada resistor en serie tiene la misma cantidad de corriente a través de él. 
